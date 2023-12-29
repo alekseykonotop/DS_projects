@@ -161,3 +161,8 @@ cython_debug/
 
 # utilities
 utilities/
+
+# temporary files
+project_1/project_notes.ipynb
+project_1/data/
+
