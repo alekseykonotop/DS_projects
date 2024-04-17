@@ -1,4 +1,4 @@
-<img src=images/hh.ru_logo.png>  
+<center> <img src = images/hh.ru_logo.png alt="drawing" style="width:400px;">
 
 # <center>Проект: Анализ вакансий из HeadHunter</center>
 
